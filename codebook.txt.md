@@ -31,7 +31,10 @@ The final tidy data is output in "Finaldata.txt" containing 180 rows, 88 columns
 
 Variables:
 
+Subject_ID - Study subjects
+Activity - Performed activities
 
+## Measured variables
 1 tBodyAcc-mean()-X
 2 tBodyAcc-mean()-Y
 3 tBodyAcc-mean()-Z

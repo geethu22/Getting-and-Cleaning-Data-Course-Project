@@ -57,7 +57,7 @@ Finaldata <- Tidydata %>%
   
 ## A new txt file created with the Finaldata df using write.table. Read the contents of the file using read.table                                
                                   
-output <- write.table(Finaldata, file= 'FinalData.txt')
+output <- write.table(Finaldata, file= 'FinalData.txt', row.name = FALSE)
 output
 
 validate <- read.table("FinalData.txt")

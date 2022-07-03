@@ -30,6 +30,8 @@ Extract data frames and merge test and train datasets; subset mean and std varia
 The final tidy data is output in "Finaldata.txt" containing 180 rows, 88 columns
 
 Variables:
+
+
 1 tBodyAcc-mean()-X
 2 tBodyAcc-mean()-Y
 3 tBodyAcc-mean()-Z
